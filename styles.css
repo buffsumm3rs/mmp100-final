@@ -1,0 +1,38 @@
+body {
+        font-family: 'Nunito', sans-serif;
+        text-align: center;
+        margin: 0;
+        padding: 20px;
+        background-color: #F8C7CC;
+      }
+      h1, h2, h3 {
+        font-family: 'Jacques François Shadow', serif;
+        color: #BF1A2F; 
+      }
+      h4 {
+        font-family: 'Jacques François Shadow', serif;
+        color: #018E42; 
+      }
+      .recipe-section {
+        text-align: left;
+        max-width: 800px;
+        margin: 0 auto;
+      }
+      .ingredients, .directions {
+        margin-bottom: 20px;
+      }
+      .directions ol {
+        padding-left: 20px;
+      }
+      .credits {
+        margin-top: 20px;
+        font-size: 0.9em;
+        color: red; 
+      }
+      img, video, audio, canvas, p{
+        display: block; 
+        margin: 0 auto;
+        padding-bottom: 2em}
+    .credits{font-size: 0.5em;
+        color: rgb(200,200,200);}
+    .a:hover{color:aquamarine} 
